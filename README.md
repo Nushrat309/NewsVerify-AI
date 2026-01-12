@@ -1,6 +1,6 @@
-# News Reporter AI
+# NewsVerify AI
 
-A complete **News Reporter AI** system that verifies news and rumors using trusted sources. It consists of three main components:
+A complete **NewsVerify AI** system that verifies news and rumors using trusted sources. It consists of three main components:
 
 1. **Backend** – Handles query processing, information retrieval, and response generation using a Retrieval-Augmented Generation (RAG) pipeline.
 2. **Frontend** – Modern, responsive chatbot interface for interacting with users and displaying verified news.
