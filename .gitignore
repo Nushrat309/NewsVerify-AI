@@ -1,0 +1,22 @@
+# IDE
+*.pyc
+*.idea
+
+
+# LOGS and ENVS
+.env
+*.log
+
+
+# FRONTEND
+frontend/node_modules/
+frontend/package-lock.json
+frontend/.next/
+
+
+# BACKEND
+*.sqlite3
+backend/app/api/rag/db/knowledge_base/
+
+
+# SCRAPPER
