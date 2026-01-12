@@ -1,0 +1,48 @@
+# Requirements for the backend service
+langchain
+langchain-core==0.1.52
+langchain_community
+langchain_text_splitters==0.0.1
+chromadb
+pdfminer.six==20221105
+protobuf==3.20.2
+unstructured==0.15.13
+scikit-learn==1.5.2
+schedule==1.2.1
+redis==5.0.8
+gunicorn==23.0.0
+pandas==2.2.3
+uvicorn==0.30.6
+fastapi==0.99.1
+APScheduler==3.10.4
+typing==3.7.4.3
+pydantic==1.10.18
+
+
+# For later when service is to be implemented
+# # Core dependencies
+# pandas>=2.0.0
+# numpy>=1.24.0
+
+# # ML/AI frameworks
+# InstructorEmbedding==1.0.1
+# sentence-transformers==2.2.2
+# transformers>=4.20
+# torch>=2.0
+
+# # Data handling
+# datasets>=2.20
+# pyarrow>=17.0
+
+# # Hugging Face
+# huggingface-hub==0.24.0
+
+# # Text processing
+# nltk>=3.8
+
+# # Additional utilities
+# tqdm>=4.64.0
+# requests>=2.28.0
+
+# GPU support (optional - install manually if needed)
+# llama-cpp-python==0.2.85 --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cu122
