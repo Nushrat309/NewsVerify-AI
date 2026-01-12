@@ -8,17 +8,6 @@ A complete **NewsVerify AI** system that verifies news and rumors using trusted 
 
 ---
 
-## Demo & Visual Overview
-
-Here are some screenshots to give a quick look at the project in action:
-
-![Home Page](/assets/home-page.png)
-![About Page](/assets/about-page.png)
-![Chatwindow Page](/assets/chat-window.png)
-
-
----
-
 ## Project Features
 
 * ✅ **Real-Time News Verification** – Ask about recent events or rumors and receive verified information from credible sources.
